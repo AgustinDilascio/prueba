@@ -1,0 +1,6 @@
+este es el archivo b
+el cual es editado por el master hasta aca
+______________________________________
+lo de arriba estaba ahora lo agrego desde
+la rama B bro
+---------------------------------------
